@@ -1,0 +1,4 @@
+timestamp,user_symptoms,recommendations,feedback,sentiment
+14-07-2025 15:13,fever cold cough,General Physician Consultation (fallback),it helped a lot,Neutral Neutral
+17-07-2025 18:18,"fever, headache","Hydration Boost Plan, Eye Health Plan, Neurologist Consultation",that helped,Neutral Neutral
+17-07-2025 18:39,fever,"Hydration Boost Plan, Immunity Boost Plan, Winter Wellness Diet",it helped,Neutral Neutral

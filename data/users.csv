@@ -1,0 +1,4 @@
+username,password,role,age,gender
+admin,admin123,admin,30,Male
+user1,pass123,user,25,Female
+ user2,pass4321,user,19,Male
